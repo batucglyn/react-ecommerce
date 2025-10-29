@@ -1,7 +1,5 @@
 # 🛍️ React E-Commerce
 
-Modern, hızlı ve şık bir e-ticaret uygulaması. React, Tailwind CSS ve Context API kullanılarak oluşturuldu.
-
 ---
 
 ## 🚀 Özellikler
